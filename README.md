@@ -1,14 +1,15 @@
-ZillionCoin integration/staging tree
+MicroCoin integration/staging tree
 ================================
 
-http://zillioncoin.org
+we will have website soon
 
-Copyright (c) 2009-2018 The developers
 
-What is ZillionCoin?
+
+What is MicroCoin?
 ----------------
 
-ZillionCoin is a new cryptocurrency which is more decentralized than Bitcoin (and other Cryptocurrencies). It prevents centralization of hashing power in pools, which is one of the main concerns of Bitcoin security. ZillionCoin was fairly launched with no premine.
+MicroCoin is a new cryptocurrency which is more decentralized than Bitcoin (and other Cryptocurrencies) and forked from ZillionCoin . It prevents centralization of hashing power in pools, which is one of the main concerns of Bitcoin security. MicroCoin was fairly launched with no premine.
+ - forked from ZillionCoin
  - Algorithm: SpreadX11
  - Block generation: 1 minute
  - Difficulty retargets: every block based on last 360 blocks
@@ -16,13 +17,3 @@ ZillionCoin is a new cryptocurrency which is more decentralized than Bitcoin (an
  - Block reward is smoothly halved every 4 years
  - Total supply: 200 mln coins
  - No year 2106 problem
- 
- Port: 41682
- 
- RPC-Port: 41681
-
-License
--------
-
-ZillionCoin is released under the terms of the MIT license. See `COPYING` for more
-information or see http://opensource.org/licenses/MIT.
