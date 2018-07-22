@@ -20,14 +20,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "zillioncoin"
-            VALUE "FileDescription",    "zillioncoin-Qt (OSS GUI client for zillioncoin)"
+            VALUE "CompanyName",        "Mircocoin"
+            VALUE "FileDescription",    "Microcoin-Qt (OSS GUI client for Microcoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "zillioncoin-qt"
+            VALUE "InternalName",       "Microcoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "zillioncoin-qt.exe"
-            VALUE "ProductName",        "zillioncoin-Qt"
+            VALUE "OriginalFilename",   "Microcoin-qt.exe"
+            VALUE "ProductName",        "Microcoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
